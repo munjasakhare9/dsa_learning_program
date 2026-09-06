@@ -1,12 +1,7 @@
-# Java compiled files
 *.class
-
-# Eclipse files
+bin/
+target/
+out/
+.settings/
 .classpath
 .project
-.settings/
-
-# Build folders
-target/
-bin/
-out/
