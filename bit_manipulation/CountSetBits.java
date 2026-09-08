@@ -12,6 +12,6 @@ class CountSetBits{
 	}
 	
 	public static void main(String args[]){
-		System.out.println("Number of set bits are :- "+countSetBits(15));
+		System.out.println("Number of set bits are :- "+countSetBits(16));
 	}
 }
